@@ -6,7 +6,7 @@ Back-end Developer
 
 I'm a Back-end developer passionate about building efficient and scalable solutions. I have experience in Python, microservices architecture, and RESTful APIs, focusing on code quality and continuous delivery.
 
-* 🌍  I'm based in São Paulo
+* 🌍  I'm based in Limeira-SP
 * ✉️  You can contact me at [gabriel.b.pinheiro@hotmail.com](mailto:gabriel.b.pinheiro@hotmail.com)
 * 🚀  I'm currently working on [e-commerce project](http://https://github.com/gpinheiro07/e-bi-main)
 * 🧠  I'm learning data structure and algorithms
